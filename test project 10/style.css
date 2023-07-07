@@ -1,0 +1,64 @@
+body{
+    position: relative;
+}
+.overlay-top-right img
+{
+    width: 18%;
+    height: 350px;
+    position: absolute;
+    right: 0px;
+    
+
+}
+.navbar-brand
+{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.bold a
+{
+    font-weight: bold;
+    text-decoration: none;
+    color: #354D5D;
+}
+.container-fluid
+{
+    position: absolute;
+}
+.row
+{
+border: 1px solid black;
+position: relative;
+}
+.main2
+{
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 400px;
+    z-index: -1;
+}
+
+.overlay-bottom-right img
+{
+    position: absolute;
+    width: 15%;
+    height: 350px;
+    margin-left: -10px;
+    padding: 0px;
+    bottom: 0px;
+}
+.banner-img img
+{
+    position: absolute;
+    width: 30%;
+    right: 5%;
+    top: 5%;
+    height: 300px;
+}
+.banner-text
+{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #112E41;
+}
